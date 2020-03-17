@@ -1,0 +1,1 @@
+{"_info":"// This is a generated file; do not edit or check into version control.","dependencyGraph":[{"name":"auto_orientation","dependencies":[]},{"name":"screen","dependencies":[]},{"name":"sys_volume","dependencies":[]},{"name":"video_player","dependencies":[]},{"name":"wakelock","dependencies":[]}]}
