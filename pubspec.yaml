@@ -20,8 +20,9 @@ dependencies:
     git:
       url: https://github.com/hwh97/flutter_volume.git
   event_bus:
+#    path: /Users/jiajunzhou/Documents/i2_school_packages__git/event_bus
     git:
-      url: https://git.i2erp.cn/plugins/event_bus.git
+      url: https://github.com/jun7572/event_bus.git
 
   flutter:
     sdk: flutter
